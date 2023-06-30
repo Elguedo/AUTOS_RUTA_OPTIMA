@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/mapbox-driver-route-main"
+		},
+		{
+			"path": "../../Downloads/Página Web con fondo de Video - Kenyo/Página Web con fondo de Video - Kenyo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RUTA OPTIMA"
+	}
+}
